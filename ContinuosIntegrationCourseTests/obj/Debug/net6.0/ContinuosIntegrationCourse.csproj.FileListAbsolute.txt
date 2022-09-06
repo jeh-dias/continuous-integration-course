@@ -1,0 +1,6 @@
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuosIntegrationCourse\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuosIntegrationCourse\obj\Debug\net6.0\ContinuosIntegrationCourse.csproj.AssemblyReference.cache
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuosIntegrationCourse\obj\Debug\net6.0\ContinuosIntegrationCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuosIntegrationCourse\obj\Debug\net6.0\ContinuosIntegrationCourse.AssemblyInfoInputs.cache
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuosIntegrationCourse\obj\Debug\net6.0\ContinuosIntegrationCourse.AssemblyInfo.cs
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuosIntegrationCourse\obj\Debug\net6.0\ContinuosIntegrationCourse.csproj.CoreCompileInputs.cache

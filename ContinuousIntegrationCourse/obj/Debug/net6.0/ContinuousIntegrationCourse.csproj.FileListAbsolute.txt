@@ -1,0 +1,15 @@
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\bin\Debug\net6.0\ContinuousIntegrationCourse.exe
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\bin\Debug\net6.0\ContinuousIntegrationCourse.deps.json
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\bin\Debug\net6.0\ContinuousIntegrationCourse.runtimeconfig.json
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\bin\Debug\net6.0\ContinuousIntegrationCourse.dll
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\bin\Debug\net6.0\ContinuousIntegrationCourse.pdb
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\obj\Debug\net6.0\ContinuousIntegrationCourse.csproj.AssemblyReference.cache
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\obj\Debug\net6.0\ContinuousIntegrationCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\obj\Debug\net6.0\ContinuousIntegrationCourse.AssemblyInfoInputs.cache
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\obj\Debug\net6.0\ContinuousIntegrationCourse.AssemblyInfo.cs
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\obj\Debug\net6.0\ContinuousIntegrationCourse.csproj.CoreCompileInputs.cache
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\obj\Debug\net6.0\ContinuousIntegrationCourse.dll
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\obj\Debug\net6.0\refint\ContinuousIntegrationCourse.dll
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\obj\Debug\net6.0\ContinuousIntegrationCourse.pdb
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\obj\Debug\net6.0\ContinuousIntegrationCourse.genruntimeconfig.cache
+C:\Users\Jessica Dias\RiderProjects\ContinuousIntegrationCourse\ContinuousIntegrationCourse\obj\Debug\net6.0\ref\ContinuousIntegrationCourse.dll

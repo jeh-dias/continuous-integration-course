@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinuousIntegrationCourse", "ContinuousIntegrationCourse\ContinuousIntegrationCourse.csproj", "{9C74FDC1-AF80-47D7-88BF-779992D7C837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinuosIntegrationCourseTests", "ContinuosIntegrationCourseTests\ContinuosIntegrationCourseTests.csproj", "{07BD39BF-F042-487E-AA53-C95061EE7449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C74FDC1-AF80-47D7-88BF-779992D7C837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C74FDC1-AF80-47D7-88BF-779992D7C837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C74FDC1-AF80-47D7-88BF-779992D7C837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C74FDC1-AF80-47D7-88BF-779992D7C837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BD39BF-F042-487E-AA53-C95061EE7449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BD39BF-F042-487E-AA53-C95061EE7449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BD39BF-F042-487E-AA53-C95061EE7449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BD39BF-F042-487E-AA53-C95061EE7449}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
