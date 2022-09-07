@@ -1,1 +1,1 @@
-# continuous-integration-course
+# continuous-integration-course-full-cycle
