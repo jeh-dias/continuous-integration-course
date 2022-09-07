@@ -11,7 +11,7 @@ jobs:
         dotnet: [ '5.0', '6.0' ]
     steps:
       - uses: actions/checkout
-       - uses: actions/setup-dotnet
+      - uses: actions/setup-dotnet
         with:
           dotnet-version: ${{ matrix.dotnet }}
       - run: dotnet build ContinuousIntegrationCourse
