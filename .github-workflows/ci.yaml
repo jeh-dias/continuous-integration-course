@@ -10,7 +10,7 @@ jobs:
       matrix:
         dotnet: [ '5.0', '6.0' ]
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout
         with:
           dotnet-version: ${{ matrix.dotnet }}
       - run: dotnet build ContinuousIntegrationCourse
