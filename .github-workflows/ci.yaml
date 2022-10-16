@@ -6,13 +6,24 @@ on:
 jobs: 
   check-application:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        dotnet: ['5.0','6.0' ]
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-dotnet@v2
         with:
-          dotnet-version: ${{ matrix.dotnet }}
+          dotnet-version: 6.0
       - run: dotnet build ContinuousIntegrationCourse
       - run: dotnet test ContinuousIntegrationCourseTests
+      - run: dotnet run ContinuousIntegrationCourse
+
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v1
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
+
+      - name: Build and push
+        id: docker_build
+        uses: docker/build-push-action@v2
+        with:
+          push: false
+          tags: jeh-dias/continuous-integration-course:latest
