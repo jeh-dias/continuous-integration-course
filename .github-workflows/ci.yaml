@@ -13,7 +13,6 @@ jobs:
           dotnet-version: 6.0
       - run: dotnet build ContinuousIntegrationCourse
       - run: dotnet test ContinuousIntegrationCourseTests
-      - run: dotnet run ContinuousIntegrationCourse
 
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v1
